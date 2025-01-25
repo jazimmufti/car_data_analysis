@@ -1,1 +1,1 @@
-# car_data_analysis
+# This is my first project on data analysis, data manipulation and data visualization.

@@ -14,5 +14,5 @@ This project analyzes a car dataset to uncover trends and insights about various
 - Selling price shows a clear decline with increasing car age.
 - Duplicate records were identified and removed for cleaner analysis.
 - Visualizations provided insights into trends between price and manufacturing year.
-- The top 5 car recommendations are generated based on the best price-to-mileage ratio and engine specifications.
+- The top 5 car recommendations are generated based on the best price-to-mileage ratio and least driven cars.
 

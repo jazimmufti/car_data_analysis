@@ -6,6 +6,7 @@ This project analyzes a car dataset to uncover trends and insights about various
 ## Features
 - **Data Cleaning**: Handling duplicates and formatting issues.
 - **Exploratory Data Analysis (EDA)**: Insights into selling prices and other car-related attributes.
+  **Add Car Feature**: Allows users to input details of a new car directly in the dataset.
 - **Visualization**: Graphical representations using matplotlib and seaborn.
 - **Car Recommendations**: The code suggests the top 5 cars based on the best price-to-mileage ratio and engine specifications, tailored to the user's preferences.
 
